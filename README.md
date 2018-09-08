@@ -47,7 +47,7 @@ _____________________
 
 ## Dev setup
 
-* Clone both repos (this one and the [Client Repo](https://github.com/thinkful-ei21/hearbuds-client))
+* Clone both repos (this one and the [Client Repo](https://github.com/sunny-slegs/hearbuds-client))
 
 * Once you have them cloned run `npm install` on both in order to get all dependancies.
 
